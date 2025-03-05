@@ -3,11 +3,11 @@ div.bottone{
   width: 200pt;
   background-color: red;
   border-radius: 50%;
-  font-size: 80px;
 }
 
 div.nota{
   height: 200pt;
   width: 200pt;
   color: white;
+  font-size: 90px;
 };
