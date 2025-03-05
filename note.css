@@ -1,0 +1,11 @@
+div.bottone{
+  height: 70pt;
+  width: 70pt;
+  background-color: red;
+  border-radius: 50%;
+}
+
+div.nota{
+  height: 70pt;
+  width: 70pt;
+};
